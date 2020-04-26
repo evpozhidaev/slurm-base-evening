@@ -1,0 +1,6 @@
+# Work with volumes
+docker volume create <name-volume>
+docker volume ls
+docker volume rm <name-volume>
+
+docker run --name redis --rm --mount type=volume,source=redis-volume,destination=/data/,readonly -d redis

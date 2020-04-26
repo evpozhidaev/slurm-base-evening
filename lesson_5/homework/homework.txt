@@ -1,0 +1,8 @@
+Домашняя работа:
+
+Запустить POD, Replicaset, Deployment
+Посмотреть что происходит на уровне docker
+Добавить в Deployment Startup Probe
+Узнать как управлять ресурсами Huge Page
+Прочитать про QoS (BestEffort, Burstable, Guaranteed)
+Ознакомится с документацией
